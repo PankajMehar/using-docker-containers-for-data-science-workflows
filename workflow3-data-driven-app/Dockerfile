@@ -2,7 +2,7 @@
 FROM python:3.6.3-alpine3.6
 
 # Meta-data
-LABEL maintainer="Aly Sivji <alysivji@gmail.com>" \
+LABEL maintainer="Jeevan Anand <jeevananne@gmail.com>" \
       description="Docker Data Science Workflow #3: Data Driven Application\
       This specific use case has the container set up like an executible.\
       Code plus dependencies required to run the program are installed in the\
