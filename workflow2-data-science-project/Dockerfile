@@ -3,7 +3,7 @@
 FROM continuumio/miniconda3
 
 # Meta-data
-LABEL maintainer="Aly Sivji <alysivji@gmail.com>" \
+LABEL maintainer="Jeevan Anand <jeevananne@gmail.com>" \
       description="Docker Data Science Workflow #2: Data Science Project\
       Libraries inside image. Data/code mounted via shared folder.\
       Easy to set up a new developmenet environment."
