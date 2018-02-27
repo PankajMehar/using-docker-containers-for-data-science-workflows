@@ -2,7 +2,7 @@
 FROM python:3.6.3-slim
 
 # Meta-data
-LABEL maintainer="Aly Sivji <alysivji@gmail.com>" \
+LABEL maintainer="Jeevan Anand <jeevananne@gmail.com>" \
       description="Docker Data Science Workflow #4: Data Science API\
       This image contains a pickled version of the predictive model\
       that can be accessed using a REST API (created in Flask).\
