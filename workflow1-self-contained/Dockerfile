@@ -2,7 +2,7 @@
 FROM python:3.6.3-slim
 
 # Meta-data
-LABEL maintainer="Aly Sivji <alysivji@gmail.com>" \
+LABEL maintainer="Jeevan Anand <jeevananne@gmail.com>" \
       description="Data Science Workflow #1: Self-Contained Container\
       Libraries, data, and code in one image"
 
